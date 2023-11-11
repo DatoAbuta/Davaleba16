@@ -328,15 +328,15 @@ footer{
     flex-direction: row;
     column-gap: 40px;
 }
-.fb:hover{
+.fbb:hover .fb{
     fill: #0D29F1;
     transition: 0.3s;
 }
-.tw:hover{
+.tww:hover .tw{
     fill: #1DA1F2;
     transition: 0.3s;
 }
-.ig:hover{
+.igg:hover .ig{
     fill: #F1600D;
     transition: 0.3s;
 }
@@ -345,4 +345,7 @@ footer{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.ngl:hover{
+    color: #26BBA4;
 }
