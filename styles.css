@@ -99,13 +99,13 @@ header{
 
 .firstb:hover{
     color: var(--Almost-Black, #151515);
-    background: rgba(255, 255, 255, 0.25);
+    background: #95F5E6;
     transition: 0.3s;
 }
 
 .secondb:hover{
     color: var(--Almost-Black, #151515);
-    background: rgba(255, 255, 255, 0.25);
+    background: #929DF1;
     transition: 0.3s;
 }
 

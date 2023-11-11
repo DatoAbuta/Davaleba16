@@ -1,4 +1,7 @@
 @media (width >= 1440px){
+    header{
+        background-size: 100%;
+    }
     .toptext{
         width: 730px;
         color: #4C545C;
