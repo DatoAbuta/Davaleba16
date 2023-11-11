@@ -328,8 +328,16 @@ footer{
     flex-direction: row;
     column-gap: 40px;
 }
-.icon:hover{
-    fill: #26BBA4;
+.fb:hover{
+    fill: #0D29F1;
+    transition: 0.3s;
+}
+.tw:hover{
+    fill: #1DA1F2;
+    transition: 0.3s;
+}
+.ig:hover{
+    fill: #F1600D;
     transition: 0.3s;
 }
 .textos{
