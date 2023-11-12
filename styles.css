@@ -101,12 +101,14 @@ header{
     color: var(--Almost-Black, #151515);
     background: #95F5E6;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .secondb:hover{
     color: var(--Almost-Black, #151515);
     background: #929DF1;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .texts2{
