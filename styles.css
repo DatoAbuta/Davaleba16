@@ -337,7 +337,7 @@ footer{
     transition: 0.3s;
 }
 .igg:hover .ig{
-    fill: #F1600D;
+    fill: #C13584;
     transition: 0.3s;
 }
 .textos{
@@ -346,6 +346,7 @@ footer{
     align-items: center;
     flex-direction: column;
 }
-.ngl:hover{
+span:hover{
     color: #26BBA4;
+    cursor: pointer;
 }
